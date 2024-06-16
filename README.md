@@ -1,6 +1,3 @@
-# Kalitemuhendisligi
-Kalite Mühendisliği
-
 ## Kalite Mühendisliği Nedir?
 Kalite mühendisliği, ürün ve hizmetlerin kalitesini artırmayı amaçlayan sistematik bir yaklaşımdır. Bu disiplin, ürünlerin yaşam döngüsü boyunca kaliteyi korumak ve iyileştirmek için gerekli olan süreçleri, yöntemleri ve araçları içerir.
 
